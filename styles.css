@@ -297,9 +297,7 @@ footer nav ul{
 	.hide{
 		display:none;
 	}
-	header h1{
-		margin-left: 80%;
-	}
+	
 	.intro{
 	display:grid;
 	grid-template-columns: 1fr;
@@ -350,7 +348,7 @@ footer nav ul{
 		display: none;
 	}
 	header h1{
-		margin-left: 60%;
+		text-align: right;
 	}
 }
 @media screen and (max-width: 745px){
@@ -382,9 +380,6 @@ footer nav ul{
 	#amazon{
 		top: -210px;
 	}
-	header h1{
-		margin-left: 50%;
-	}
 	.sv img{
 		display: none;
 	}
@@ -407,6 +402,7 @@ footer nav ul{
 }
 @media screen and (max-width: 410px){
 	header h1{
+		text-align: left;
 		margin-left: 0;
 	}
 	.introStat{
