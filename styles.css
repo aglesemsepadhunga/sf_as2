@@ -410,4 +410,8 @@ footer nav ul{
 	display:grid;
 	grid-template-columns: 1fr;
 	}
+	.test{
+	background: linear-gradient(170deg, #f9f9f9 50%, white 50%)
+
+	}
 }
